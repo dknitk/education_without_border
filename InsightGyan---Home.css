@@ -463,7 +463,7 @@
 .u-section-7 .u-text-2 {
   font-size: 2.25rem;
   font-weight: 700;
-  margin: 40px auto 0 107px;
+  margin: 40px 681px 0 107px;
 }
 
 .u-section-7 .u-btn-1 {
@@ -529,6 +529,7 @@
 
   .u-section-7 .u-text-2 {
     margin-top: 100px;
+    margin-right: 581px;
     margin-left: 88px;
   }
 
@@ -595,6 +596,7 @@
   }
 
   .u-section-7 .u-text-2 {
+    margin-right: 368px;
     margin-left: 67px;
   }
 
@@ -638,6 +640,7 @@
   }
 
   .u-section-7 .u-text-2 {
+    margin-right: 188px;
     margin-left: 50px;
   }
 
@@ -678,6 +681,7 @@
 
   .u-section-7 .u-text-2 {
     font-size: 1.5rem;
+    margin-right: 0;
     margin-left: 31px;
   }
 
@@ -723,7 +727,7 @@
 .u-section-9 .u-text-1 {
   font-family: "Alegreya SC";
   font-weight: 700;
-  margin: 81px auto 0 371px;
+  margin: 81px 383px 0 371px;
 }
 
 .u-section-9 .u-image-1 {
@@ -734,6 +738,7 @@
 
 @media (max-width: 1199px) {
   .u-section-9 .u-text-1 {
+    margin-right: 283px;
     margin-left: 306px;
   }
 
@@ -744,6 +749,7 @@
 
 @media (max-width: 991px) {
   .u-section-9 .u-text-1 {
+    margin-right: 173px;
     margin-left: 234px;
   }
 
@@ -758,6 +764,7 @@
   }
 
   .u-section-9 .u-text-1 {
+    margin-right: 83px;
     margin-left: 176px;
   }
 
@@ -774,6 +781,7 @@
   }
 
   .u-section-9 .u-text-1 {
+    margin-right: 0;
     margin-left: 111px;
   }
 
